@@ -10,7 +10,7 @@ A real-time messaging application built with React Native and Java EE.
 ## 📚 Documentation
 
 - [📄 Project Report (PDF)](./docs/Project-Report.pdf)
-
+This documentation contains all the screenshots of the screens in the Orbit app
 ---
 
 ## 📁 Project Structure
