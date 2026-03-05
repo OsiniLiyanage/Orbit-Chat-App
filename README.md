@@ -7,6 +7,10 @@ A real-time messaging application built with React Native and Java EE.
 
 🎥 **[Watch Demo](https://youtu.be/Yc0hqR5-Ynw?si=aKK3G_uI0Bk71Yrt)**
 
+## 📚 Documentation
+
+- [📄 Project Report (PDF)](./docs/Project-Report.pdf)
+
 ---
 
 ## 📁 Project Structure
