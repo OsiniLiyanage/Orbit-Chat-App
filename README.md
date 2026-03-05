@@ -18,7 +18,7 @@ This documentation contains all the screenshots of the screens in the Orbit app
 This repository uses **separate branches** for frontend and backend:
 
 - **`frontend`** branch → React Native mobile application
-- **`backend`** branch → Java EE REST API + WebSocket server
+- **`OrbitBackend`** branch → Java EE REST API + WebSocket server
 
 ---
 
